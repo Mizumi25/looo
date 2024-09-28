@@ -1,0 +1,19 @@
+html, body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.ts-main-content {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.rowi {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+}
